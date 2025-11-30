@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+}
+a{
+    text-decoration: none;
+}
+p::first-line{
+       color: #ff4081;
+       font-weight: bold;
+       font-size: 20px;
+       text-align: left;
+}
+a:hover{
+    text-decoration: underline;
+    color: chartreuse;
+}
+p::first-letter{
+    color: brown;
+     font-size: italic;
+}
+h1{
+    text-shadow: 0 0 10px #00ffff, 0 0 20px #0099ff;
+}
+a:focus{
+    outline: #0099ff;
+    background-highlight-color: pink:
+}
+a:focus{
+    outline: 3px solid #ff4081;
+     background-color: #ffe6f0;
+     border-radius: 5px;
+}
